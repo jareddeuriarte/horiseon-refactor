@@ -9,7 +9,9 @@ The bulk of this project was simply swapping any < div > for a semantic html ele
 ### Usage
 The use of this web application is for business purposes and attracting new clients.
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/Screen Shot 2021-03-01 at 18.21.01.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/screenshot1.png)
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/screenshot2.png)
 
 ### Credits
 I'd like to thank my steadfast bootcamp cohort for all the collaborative help getting through this first homework assigment.
